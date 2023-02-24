@@ -8,6 +8,8 @@
 
 .container {
     width: 200px;
+    height: 700px;
+    display: block;
     margin: 140px auto;
     background: rgb(255, 95, 95);
     padding: 250px;
